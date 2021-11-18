@@ -1,14 +1,15 @@
 .container{
-    background-color: aqua;
+   
     display: flex;
-    flex-flow: row wrap;
+    flex-wrap:wrap-reverse;
     justify-content: center;
 }
 .item{
-    background-color: blue;
+    background-color: white;
+    border: 2px solid black;
     padding: 20px;   
-    height: 250px;
-    width: 250px;
-    margin: 20px;
+    height: 50px;
+    width: 50px;
+    margin: 1px;
     
 }
