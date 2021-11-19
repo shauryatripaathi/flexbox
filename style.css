@@ -4,10 +4,12 @@
     justify-content: center;
     flex-flow: row wrap;
     margin :auto;
+    margin-top: 150px;
+ 
 }
 .item{
-    
     border: 1px solid black;
+    
     padding: 20px; 
     flex-basis: 10%;
     
