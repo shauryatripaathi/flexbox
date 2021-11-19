@@ -1,14 +1,14 @@
 .container{
-    padding: 100px;
+    max-width: 230px;
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
 
 }
 .item{
+    
     border: 1px solid black;
-    padding: 20px;   
-    height: 60px;
-    flex-basis: 25%;
-   
+    padding: 20px; 
+    flex-basis: 10%;
+    
 }
