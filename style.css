@@ -3,7 +3,8 @@
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
-
+    padding: 100px;
+    margin-left: 350px;
 }
 .item{
     
