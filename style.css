@@ -14,3 +14,40 @@
     flex-basis: 10%;
     
 }
+
+#box1{
+    border-right: 0px;
+    border-bottom: 0px;
+}
+
+#box2{
+   border-bottom: 0px;
+}
+
+#box3{
+    border-left: 0px;
+    border-bottom: 0px;
+}
+
+#box4{
+    border-right: 0px;
+    border-bottom: 0px;
+}
+#box5{
+    border-bottom: 0px;
+ }
+
+#box6{
+    border-left: 0px;
+    border-bottom: 0px;
+}
+
+#box7{
+    border-right: 0px;
+}
+
+#box9{
+   
+    border-left: 0px;
+ }
+ 
