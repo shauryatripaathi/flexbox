@@ -5,10 +5,10 @@
     flex-flow: row wrap;
     margin :auto;
     margin-top: 150px;
- 
+    cursor: pointer;
 }
 .item{
-    border: 1px solid black;
+    border: 1px solid black; 
     
     padding: 20px; 
     flex-basis: 10%;
